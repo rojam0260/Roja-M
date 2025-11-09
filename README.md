@@ -32,7 +32,7 @@ I’m currently building projects to sharpen my analytical and visualization ski
 ---
 
 ## 📚 Featured Projects
-- [📊 Online Store Orders Dashboard](https://github.com/rojam0260/online-store-orders-dashboard)  
+- [📊 Online Store Orders Dashboard]https://github.com/rojam0260/Online_Store_Sales_Dashboard 
   *Excel dashboard analyzing online sales, customer orders, and regional performance.*
 
 
