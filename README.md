@@ -51,7 +51,7 @@ I’m currently building projects to sharpen my analytical and visualization ski
 ## 📫 Let’s Connect
 📧 Email: rojam0260@gmail.com  
 💼 LinkedIn: http://linkedin.com/in/rojam 
-🌐 Portfolio:https://rojam0260.github.io
+
 
 ---
 
