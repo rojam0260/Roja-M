@@ -33,9 +33,15 @@ I’m currently building projects to sharpen my analytical and visualization ski
 
 ## 📚 Featured Projects
 - [📊 Online Store Orders Dashboard] https://github.com/rojam0260/Online_Store_Sales_Dashboard           
-  *Excel dashboard analyzing online sales, customer orders, and regional performance.*
+  *Excel dashboard analyzing online sales, customer orders, and regional performance.
+  *Tool Used: Excel  
 
-
+-[📊 Superstore Sales Analysis Dashboard] https://github.com/rojam0260/FUTURE_DS_01
+  *This Power BI dashboard provides insights into Superstore’s sales performance.  
+  *It visualizes key metrics like sales, profit, and quantity across regions, categories, and customer segments.  
+  *The interactive visuals help identify trends, top-performing products, and areas for business improvement.
+  *Tool Used: Power BI  
+  
 *(More projects coming soon...)*
 
 ---
